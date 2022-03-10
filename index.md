@@ -11,6 +11,22 @@
 ![texto Alternativo](https://m.media-amazon.com/images/I/51WLN6K4OnS._AC_.jpg)
 
 ### Balón Voit Futbol Soccer Fifa Quality Pro 
+Balón Voit Futbol Pro Clausura 2022 - No. 5
+
+Balón de 32 paneles que nos dará un juego más dinámico. Su material de PVC+EVA nos dará la resistencia necesaria para que tu explotes tu fútbol dentro de la cancha, con cámara de hule que ayudará a que el balón conserve el aire durante más tiempo y mantenga su circunferencia, para alargar la vida de este balón.
+
+# CARACTERÍSTICAS:
+
+1. Balón #5 Clausura 2022.
+2. Construcción de 32 paneles.
+3. Material sintético (PVC).
+4. Cámara de hule para mayor durabilidad.
+5. Costura flexible.
+6. Resistente.
+7. Ideal para entrenamiento ligero.
+8. Óptimo para ligas de fútbol amateur.
+9. Superficie de juego recomendado: Pasto Sintético/Natural.
+10. Peso: 430 gr
 
 [Precio Amazon](https://articulo.mercadolibre.com.mx/MLM-1376396417-balon-voit-futbol-soccer-fifa-quality-pro-clausura-2022-5-_JM?matt_tool=37522206&matt_word=&matt_source=google&matt_campaign_id=15700527986&matt_ad_group_id=137274932851&matt_match_type=&matt_network=g&matt_device=c&matt_creative=571859879720&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=248359733&matt_product_id=MLM1376396417&matt_product_partition_id=1412990831242&matt_target_id=pla-1412990831242&gclid=EAIaIQobChMIv5mx3M689gIVOgytBh02vge4EAQYAiABEgIBp_D_BwE)
 
