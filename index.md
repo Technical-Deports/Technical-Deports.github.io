@@ -20,7 +20,7 @@ Balón Voit Futbol Pro Clausura 2022 - No. 5
 
 Balón de 32 paneles que nos dará un juego más dinámico. Su material de PVC+EVA nos dará la resistencia necesaria para que tu explotes tu fútbol dentro de la cancha, con cámara de hule que ayudará a que el balón conserve el aire durante más tiempo y mantenga su circunferencia, para alargar la vida de este balón.
 
-### CARACTERÍSTICAS:
+CARACTERÍSTICAS:
 
 1. Balón #5 Clausura 2022.
 2. Construcción de 32 paneles.
