@@ -18,6 +18,6 @@
 
 ### Nike Pelota Premier League Strike
 
-[Precio Amazon](https://www.goalinn.com/futbol/nike-pelota-premier-league-strike/138345893/p?utm_source=google_products&utm_medium=merchant&id_producte=14117324&country=mx&gclid=EAIaIQobChMI2e261M-89gIVYj2tBh3wBwIMEAQYBCABEgKCBPD_BwE&gclsrc=aw.ds)
+[Precio goal INN](https://www.goalinn.com/futbol/nike-pelota-premier-league-strike/138345893/p?utm_source=google_products&utm_medium=merchant&id_producte=14117324&country=mx&gclid=EAIaIQobChMI2e261M-89gIVYj2tBh3wBwIMEAQYBCABEgKCBPD_BwE&gclsrc=aw.ds)
 
 ![Texto Alternativo](https://www.goalinn.com/f/13834/138345893/nike-pelota-premier-league-strike.jpg)
