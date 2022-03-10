@@ -34,6 +34,7 @@ La carcasa cosida a máquina optimiza la forma, la sensación y la durabilidad.
 El diseño de 12 paneles proporciona un vuelo de bola verdadero y preciso.
 
 La vejiga de goma ayuda a mantener la presión y la forma del aire.
+
 [Precio goal INN](https://www.goalinn.com/futbol/nike-pelota-premier-league-strike/138345893/p?utm_source=google_products&utm_medium=merchant&id_producte=14117324&country=mx&gclid=EAIaIQobChMI2e261M-89gIVYj2tBh3wBwIMEAQYBCABEgKCBPD_BwE&gclsrc=aw.ds)
 
 ![Texto Alternativo](https://www.goalinn.com/f/13834/138345893/nike-pelota-premier-league-strike.jpg)
