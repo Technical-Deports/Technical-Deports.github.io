@@ -17,7 +17,23 @@
 ![Texto Alternativo](https://http2.mlstatic.com/D_NQ_NP_936897-MLM49066403494_022022-O.webp)
 
 ### Nike Pelota Premier League Strike
+El balón de fútbol de la Premier League Strike está listo para volar al fondo de la red.
 
+Una carcasa texturizada y ranuras estabilizadoras te ayudan a poner la pelota justo donde la quieres.
+
+Características:
+
+60% Goma 15% Poliuretano 13% Poliéster 12% Eva.
+
+Las ranuras Nike Aerow Trac permiten un giro constante cuando la pelota está en el aire.
+
+La carcasa texturizada ofrece un gran tacto y sensación en el pie.
+
+La carcasa cosida a máquina optimiza la forma, la sensación y la durabilidad.
+
+El diseño de 12 paneles proporciona un vuelo de bola verdadero y preciso.
+
+La vejiga de goma ayuda a mantener la presión y la forma del aire.
 [Precio goal INN](https://www.goalinn.com/futbol/nike-pelota-premier-league-strike/138345893/p?utm_source=google_products&utm_medium=merchant&id_producte=14117324&country=mx&gclid=EAIaIQobChMI2e261M-89gIVYj2tBh3wBwIMEAQYBCABEgKCBPD_BwE&gclsrc=aw.ds)
 
 ![Texto Alternativo](https://www.goalinn.com/f/13834/138345893/nike-pelota-premier-league-strike.jpg)
