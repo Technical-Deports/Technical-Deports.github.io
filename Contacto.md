@@ -3,3 +3,12 @@
 ## Numero Telefonico: 55 54 65 47 34  
 
 ![wa link_fncqhu](https://user-images.githubusercontent.com/99769731/158484897-29ae74af-dcf5-4f2c-b82d-4cedae88d76a.png)
+
+
+<form>
+<label for="name">Nombres:</label><br>
+<input type="text" id="name" name="name" value= "tus nombres"><br>
+<label for="lname">Apellidos:</label><br>
+<input type="text" id="lname" name="lname" value="Apellidos"><br>
+</form>
+
