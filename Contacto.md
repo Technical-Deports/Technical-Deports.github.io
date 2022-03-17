@@ -19,5 +19,6 @@
   <input type="text" id="lname" name="lname" value="Numero Celular"><br>
   <label for="name">Dirección:</label><br>
   <input type="text" id="lname" name="lname" value="Dirección"><br>
+  <input type="submit" value="Enviar">
 </form>
 
