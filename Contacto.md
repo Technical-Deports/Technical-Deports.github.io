@@ -16,7 +16,7 @@
   <label for="name">Correo Electronico:</label><br>
   <input type="text" id="lname" name="lname" value="@gmail.com"><br>
   <label for="name">Número Telefonico:</label><br>
-  <input type="text" id="lname" name="lname" value="Numero Celular"><br>
+  <input type="text" id="lname" name="lname" value="Número Celular"><br>
   <label for="name">Dirección:</label><br>
   <input type="text" id="lname" name="lname" value="Dirección"><br>
   <input type="submit" value="Enviar">
