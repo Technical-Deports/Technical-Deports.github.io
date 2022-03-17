@@ -20,7 +20,8 @@
   <input type="text" id="lname" name="lname" value="Número Celular"><br>
   <label for="name">Dirección:</label><br>
   <input type="text" id="lname" name="lname" value="Dirección"><br>
+  <label for="birthday">Fecha de Cita:</label>
+  <input type"date" id="birthday" name="birthday">
   <input type="submit" value="Enviar">
-  
-</form>
+  </form>
 
