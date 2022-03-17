@@ -10,7 +10,7 @@
 
 <form>
 <label for="name">Nombres:</label><br>
-<input type="text" id="name" name="name" value= "Tus nombres"><br>
+<input type="text" id="name" name="name" value= "Tus Nombres"><br>
 <label for="lname">Apellidos:</label><br>
 <input type="text" id="lname" name="lname" value="Apellidos"><br>
   <label for="name">Correo Electronico:</label><br>
