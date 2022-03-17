@@ -17,5 +17,7 @@
   <input type="text" id="lname" name="lname" value="@gmail.com"><br>
   <label for="name">Número Telefonico:</label><br>
   <input type="text" id="lname" name="lname" value="Numero Celular"><br>
+  <label for="name">Dirección:</label><br>
+  <input type="text" id="lname" name="lname" value="Dirección"><br>
 </form>
 
