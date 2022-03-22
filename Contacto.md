@@ -10,6 +10,8 @@
 
 
 <form action="/action_page.php">
+  method="post">
+  Name: <input type="text" name="name"><br>
 <label for="name">Nombres:</label><br>
 <input type="text" id="name" name="name" value= "Tus Nombres"><br>
 <label for="lname">Apellidos:</label><br>
