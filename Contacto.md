@@ -9,9 +9,7 @@
 ![wa link_fncqhu](https://user-images.githubusercontent.com/99769731/158484897-29ae74af-dcf5-4f2c-b82d-4cedae88d76a.png)
 
 
-<form action="/action_page.php">
-  method="post">
-  Name: <input type="text" name="name"><br>
+<form action="/action_page.php" method="post">
 <label for="name">Nombres:</label><br>
 <input type="text" id="name" name="name" value= "Tus Nombres"><br>
 <label for="lname">Apellidos:</label><br>
