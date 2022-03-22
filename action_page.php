@@ -1,8 +1,9 @@
  <html>
   <body>
-    Bienvenido <?php echo $_POST["name"]; ?><br>
-    Tu Correo Electronico es: <?php echo $_POST["email"]; ?>
-   Tu Número Telefonico es: <?php echo $_POST["name"]; ?>
+    Bienvenido <?php echo $_POST["Nombre"]; ?><br>
+   <?php echo $_POST["lname"]; ?>
+    Tu Correo Electronico es: <?php echo $_POST["Correo Electronico"]; ?><br>
+   Tu Número Telefonico es: <?php echo $_POST["Número Telefonico"]; ?><br>
     </body>
     </html>
     
